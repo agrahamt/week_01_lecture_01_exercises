@@ -5,5 +5,8 @@ week_01_lecture_01_exercises
 
 3. b
 
-4. a.
+4. a
+
+5. b
+
 
