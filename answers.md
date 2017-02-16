@@ -38,3 +38,9 @@ week_01_lecture_01_exercises
 19. c
 
 20. d
+
+21. a
+
+22. d
+
+23. a
