@@ -13,3 +13,6 @@ week_01_lecture_01_exercises
 
 7. b
 
+8. a
+
+
