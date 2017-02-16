@@ -24,3 +24,4 @@ This folder is contained alongside the directories for the various users, in my 
 If I want to share my files with another user of my machine, I can copy the files to the /Users/Shared folder
 and other users will have access to it.  As the owner of the folder or file, I can designate it "read only" for other users.  I can also pick which users on the system can access it through permissions.
 Question: Would you have to use Finder to manage permissions?
+Note that by default other users are read only, they cannot edit the file unless they make it a new copy in their own user directory - or maybe even copy it within the Shared folder with a new name?
