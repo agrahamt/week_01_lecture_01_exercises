@@ -16,3 +16,5 @@ week_01_lecture_01_exercises
 8. a
 
 9. c
+
+10. a
