@@ -18,3 +18,13 @@ week_01_lecture_01_exercises
 9. c
 
 10. a
+
+11. c
+
+12. d
+
+13. b
+
+14. d
+
+15. c
